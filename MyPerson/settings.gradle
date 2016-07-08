@@ -1,1 +1,1 @@
-include ':app', ':myconterperson'
+include ':app', ':myconterperson', ':activity', ':myactivity', ':myipphone', ':mysdreceiver', ':mysmslistener', ':myappl', ':mybootreciver', ':mylistreceiver', ':myreceive', ':myreceicers'

@@ -3,8 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyPerson.iml" filepath="$PROJECT_DIR$/MyPerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity/activity.iml" filepath="$PROJECT_DIR$/activity/activity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myactivity/myactivity.iml" filepath="$PROJECT_DIR$/myactivity/myactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappl/myappl.iml" filepath="$PROJECT_DIR$/myappl/myappl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybootreciver/mybootreciver.iml" filepath="$PROJECT_DIR$/mybootreciver/mybootreciver.iml" />
       <module fileurl="file://$PROJECT_DIR$/myconterperson/myconterperson.iml" filepath="$PROJECT_DIR$/myconterperson/myconterperson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myipphone/myipphone.iml" filepath="$PROJECT_DIR$/myipphone/myipphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylistreceiver/mylistreceiver.iml" filepath="$PROJECT_DIR$/mylistreceiver/mylistreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myreceicers/myreceicers.iml" filepath="$PROJECT_DIR$/myreceicers/myreceicers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myreceive/myreceive.iml" filepath="$PROJECT_DIR$/myreceive/myreceive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysdreceiver/mysdreceiver.iml" filepath="$PROJECT_DIR$/mysdreceiver/mysdreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysmslistener/mysmslistener.iml" filepath="$PROJECT_DIR$/mysmslistener/mysmslistener.iml" />
     </modules>
   </component>
 </project>

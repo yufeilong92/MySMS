@@ -9,15 +9,35 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myactivity" />
+            <option value="$PROJECT_DIR$/myappl" />
+            <option value="$PROJECT_DIR$/mybootreciver" />
             <option value="$PROJECT_DIR$/myconterperson" />
+            <option value="$PROJECT_DIR$/myipphone" />
+            <option value="$PROJECT_DIR$/mylistreceiver" />
+            <option value="$PROJECT_DIR$/myreceicers" />
+            <option value="$PROJECT_DIR$/myreceive" />
+            <option value="$PROJECT_DIR$/mysdreceiver" />
+            <option value="$PROJECT_DIR$/mysmslistener" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myactivity" />
+            <option value="$PROJECT_DIR$/myappl" />
+            <option value="$PROJECT_DIR$/mybootreciver" />
             <option value="$PROJECT_DIR$/myconterperson" />
+            <option value="$PROJECT_DIR$/myipphone" />
+            <option value="$PROJECT_DIR$/mylistreceiver" />
+            <option value="$PROJECT_DIR$/myreceicers" />
+            <option value="$PROJECT_DIR$/myreceive" />
+            <option value="$PROJECT_DIR$/mysdreceiver" />
+            <option value="$PROJECT_DIR$/mysmslistener" />
           </set>
         </option>
       </GradleProjectSettings>

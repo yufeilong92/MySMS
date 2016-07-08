@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import java.util.ArrayList;
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText et_photo;
@@ -37,7 +39,12 @@ public class MainActivity extends AppCompatActivity {
                 text = et_text.getText().toString().trim();
                //[☆]获取smsmessger实例发送短信实例
                 SmsManager smsManager = SmsManager.getDefault();
-               smsManager.sendTextMessage(photo,null,text,null,null);
+
+                ArrayList<String> strings = smsManager.divideMessage(text);
+                for(String div:strings){
+
+                smsManager.sendTextMessage(photo,null,div,null,null);
+                }
             }
         });
     }
