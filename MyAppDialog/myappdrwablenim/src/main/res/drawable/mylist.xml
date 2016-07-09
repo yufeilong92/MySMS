@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:oneshot="false">
+    <!--无限重复android:oneshot="false" true 执行一次-->
+<item android:drawable="@drawable/wq" android:duration="200"></item>
+<item android:drawable="@drawable/w" android:duration="200"></item>
+<item android:drawable="@drawable/b" android:duration="200"></item>
+<item android:drawable="@drawable/g" android:duration="200"></item>
+<item android:drawable="@drawable/c" android:duration="200"></item>
+<item android:drawable="@drawable/d" android:duration="200"></item>
+<item android:drawable="@drawable/qw" android:duration="200"></item>
+<item android:drawable="@drawable/f" android:duration="200"></item>
+<item android:drawable="@drawable/h" android:duration="200"></item>
+</animation-list>
